@@ -1,16 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Medicinal+%7C+Doc)](https://git.io/typing-svg)
+<img align="left" src="https://i.imgur.com/tQVbAeb.png" width="200"/> 
 
-<!--
-**docov/docov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+github.com/docov
+website   $  xan.ax
+guns   $  guns.lol/_0_
+```
+&zwnj; 
+&zwnj; 
+<img src="https://komarev.com/ghpvc/?username=github&style=flat-square&label=VIEWS&color=000000" alt="Profile Views" />
